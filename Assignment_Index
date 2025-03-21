@@ -1,0 +1,34 @@
+1. Write your own algorithm or strategy to find log10. You can use 10**x. 
+2. Two lines x1 --> x2 and x3 --> x4, print True, if overlapping or touching otherwise print False
+3. Write SQ method, Write you own code to do SQRT
+4. First write you own method to cube and then do cube root
+5. Tower of Hanoi
+6. A rectangle is represented by two opposite corners. Each corner is represented a two number (x, y). Given two rectangles, return True if they are touching or overlapping otherwise return false.
+7. pythagoras
+8. Distance between 2 points using Pythogoras
+9. 3D distance
+10. Calculate N dimetional distance 
+11. Designing thermometer : 
+    # when current 1, the teperature was 30
+    # when currrent 2, the temperature was 35
+    # when current will be 3, what would be the temperature 40
+    # current = 4, temp = 45
+    # current 2.1, temp = 35.5
+12. Rate of change of output wrt input : 
+    # I want to measure the rate of change of output with respect to input.
+    # Slight increase input and observe how much output changes
+    # find out the ratio of change of output wrt input
+13. Write code to swap two variables values.
+14  Level Up: Do it without using third variable
+15. shift the arr by k places to left circularly without using extra array but you can use extra variable
+16. Given three lists of numbers, return the list of their XORs
+    all three lists have same size
+17. You have a list of numbers, you have to reverse it.
+18  Level up : Without using extra arr or you can say do it in place.
+19. Write a function to print all possible numbers of length n where each digit could go from 0 to m-1.
+20. Print all possible permutations of your name. Same length.
+21. We need to predict the load on our website in near realtime.
+    t = 0, load = 10 t = 1, load = 15 t = 2, load = 30 t = 3, load = ? t = 4, load = ?
+    First write a method called fit(data) that returns a model and then write a method called predict(model, time) that returns the load
+    It is known the load on the website is a non-linear equations i.e. load = a * t^2 + b * t + c
+    Start with pen and papers. Do it manually first and then come up with a stragetegy to do with code.
